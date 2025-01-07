@@ -1,4 +1,4 @@
-package com.ranijth.ParkingLot
+package com.ranijth
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
